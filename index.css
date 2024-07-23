@@ -1,0 +1,47 @@
+#theTop{
+    background-image: url(wxl-4k-amazing-landscape-and-alone-girl_75859.jpg);
+    padding: 40px;
+}
+#home{
+    background-color: rgb(80, 76, 76);
+    border-spacing: 3cm;
+}
+#moveee{
+    background-color: violet;
+    border: 3px dashed darkblue;
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    opacity: 0.8;
+}
+.tab{
+    box-sizing: border-box;
+    background-color: rgb(134, 17, 91);
+    border-radius: 18px;
+    border-width: 40%;
+    text-align: center;
+    color: whitesmoke;
+}
+#profile{
+    border-radius: 50px;
+}
+#about{
+    background-color: rgb(80, 76, 76);
+    border-spacing: 3cm;
+    color: whitesmoke;
+    text-align: center;
+}
+.webz{
+    display: flex;
+    flex-direction: row;
+    border-spacing: 6cm;
+    justify-content: space-evenly;
+}
+#contact{
+    background-color: rgb(80, 76, 76);
+    border-spacing: 3cm;
+    color: whitesmoke;
+    text-align: center;
+}
